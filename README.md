@@ -1,5 +1,6 @@
 # Version-Control-System
 CM1705 Fundamentals of Programming: Kimberley Craik, 2121492
+
 Why is a Version Control System useful when developing software both as an individual developer and as part of a development team?
 
 Software Development Project Lifecycle
