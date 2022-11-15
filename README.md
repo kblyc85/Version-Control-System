@@ -30,7 +30,7 @@ A development team can benefit in similar ways from version control through an o
 - Where there are conflicts in the software solution, different version can be merged together in a new version to remove these conflicts and understand how the different versions can work effectively together.
 - Even if a version of the software solution is accepted by the development team, it can be ‘rolled-back’ to the earlier version if required. 
 
-Some additional benefits could be:
+Some additional benefits to the Development team could be:
 
 - Version control within a team can allow many people to work on programming the software solution, at any one time, without impacting on the current version, giving flexibility in the development of the software solution.
 - The development team can view all versions of a software solution and decide which one meets the customer’s requirements most effectively.  This may not be one developer’s solution but the amalgamation of two or more solutions.
