@@ -5,7 +5,7 @@ Why is a Version Control System useful when developing software both as an indiv
 
 Software Development Project Lifecycle
 
-The key stages of a Software Development Project Lifecycle are understood to be Planning, Requirements, Design, Implementation, Testing, Evaluation, Documentation and Maintenance.  Version Control becomes incredibly important from the Design stage forward.  Iterative changes to any software solution will happen between the Design and Maintenance stages and being able to ‘roll-back’ to previous versions of a software solution is necessary e.g.  if the Requirements change; if there are opportunities to enhance the software solution or if the software solution doesn’t fulfil all of the customer’s requirements.  Any number of changes can result in rolling-back a software solution to an earlier version; it’s important not to lose this work and to be able to return to earlier versions timely and with ease.
+Version Control becomes incredibly important from the Design stage forward, of the Software Development Project Lifecycle.  Iterative changes to any software solution will happen between the Design and Maintenance stages and being able to ‘roll-back’ to previous versions of a software solution is necessary e.g.  if the Requirements change; if there are opportunities to enhance the software solution or if the software solution doesn’t fulfil all of the customer’s requirements.  Any number of changes can result in rolling-back a software solution to an earlier version; it’s important not to lose this work and to be able to return to earlier versions timely and with ease.
 
 GitHub
 
