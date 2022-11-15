@@ -2,11 +2,17 @@
 CM1705 Fundamentals of Programming: Kimberley Craik, 2121492
 
 Why is a Version Control System useful when developing software both as an individual developer and as part of a development team?
+
 Software Development Project Lifecycle
-The key stages of a Software Development Project Lifecycle are understood to be Planning, Requirements, Design, Implementation, Testing, Evaluation, Documentation and Maintenance.  While arguably, the most important stage of the cycle could be understanding the problem that requires a software solution, what success would look like for the customer, and what timeframe this needs to happen within i.e. Planning & Requirements.  Once this is clearly understood, the software solution’s ability to deliver will determine success.
-Version Control becomes incredibly important from the Design stage forward.  Iterative changes to any software solution will happen between the Design and Maintenance stages and being able to ‘roll-back’ or return to previous versions of a software solution are necessary.  Even more so, if the Requirements change, or if there are opportunities to enhance the software solution or if the software solution doesn’t fulfil all of the customer’s requirements.  Any number of changes can result in rolling-back a software solution to an earlier version; it’s important not to lose this work and to be able to return to earlier versions timely and with ease.
+
+The key stages of a Software Development Project Lifecycle are understood to be Planning, Requirements, Design, Implementation, Testing, Evaluation, Documentation and Maintenance. Version Control becomes incredibly important from the Design stage forward. Iterative changes to any software solution will happen between the Design and Maintenance stages and being able to ‘roll-back’ to previous versions of a software solution is necessary e.g. if the Requirements change; if there are opportunities to enhance the software solution or if the software solution doesn’t fulfil all of the customer’s requirements. Any number of changes can result in rolling-back a software solution to an earlier version; it’s important not to lose this work and to be able to return to earlier versions timely and with ease.
+
 GitHub
-GitHub can support version control for software development as it can hold both a programming language and any supporting text e.g. it may explain alongside the new programming, what programming changes were completed and why.  GitHub can summarise the journey of a document or programme’s development over a period of time.  This is useful for understanding the amount of time it may have take to develop a particular software solution however, in regard to version control, it would be able to pinpoint specific changes (i.e. date/time), who undertook those changes as well as why the changes were implemented and return a software solution to any of its given versions.
+
+GitHub can support version control for software development because it can:
+
+Hold both a programming language and any supporting text e.g. it may explain alongside the new programming, what programming changes were completed and why.
+Summarise the journey of a document or programme’s development over a period of time e.g. it would be able to pinpoint specific changes (i.e. date/time), who undertook those changes as well as why the changes were implemented and return a software solution to any of its given versions.
 
 Benefits to Individual Developers
 
