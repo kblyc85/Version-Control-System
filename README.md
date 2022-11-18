@@ -20,8 +20,8 @@ An individual developer can benefit in different ways from version control throu
 
 - Maintain the /current version of the programme while ‘branching off’ to experiment with programming the software solution
 - Maintain notes that are understandable to them, so when they return to their work or need to explain their programming to their wider team, that this is easy to do
-- Merge their programming with the current version of the software solution, if it is accepted by the development team as part of the wider software solution. 
- -Even if their programming is accepted as part of the software solution, it can be ‘rolled-back’ to the earlier version if required. 
+- Merge their programming with the current version of the software solution, if it is accepted by the development team as part of the wider software solution.
+- Even if their programming is accepted as part of the software solution, it can be ‘rolled-back’ to the earlier version if required. 
 
 Benefits to the Development Team
 
