@@ -9,7 +9,7 @@ Version Control becomes incredibly important from the Design stage forward, of t
 
 GitHub
 
-GitHub can support version control for software development because it can:
+GitHub can support version control for software development, not necessarily available in other version control systems, because it can:
 
 - Hold both a programming language and any supporting text e.g. it may explain alongside the new programming, what programming changes were completed and why.
 - Summarise the journey of a document or programme’s development over a period of time e.g. it would be able to pinpoint specific changes (i.e. date/time), who undertook those changes as well as why the changes were implemented and return a software solution to any of its given versions.
